@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\projects\\my project\\assets\\scripts\\trap\\nullplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap\\nullplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\map\\starttimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\starttimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\player\\cameraconsrolers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\cameraconsrolers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\player\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\trap\\timerdamagetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap\\timerdamagetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\My project\\assets\\scripts\\map\\fall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\fall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NullPlatform.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\Trap\\NullPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap\\NullPlatform.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\Trap\\NullPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap\\NullPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:29:27.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartTimer.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\map\\StartTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\map\\StartTimer.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\map\\StartTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\map\\StartTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:23:37.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\PlayerMove.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\PlayerMove.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:12:11.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fall.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\map\\Fall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\map\\Fall.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\map\\Fall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\map\\Fall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:08:46.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Specifications.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\player\\Specifications.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\Specifications.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\player\\Specifications.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\Specifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:40:15.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraConsrolers.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\player\\CameraConsrolers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\CameraConsrolers.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\player\\CameraConsrolers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\CameraConsrolers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:39:14.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:17:32.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "timerDamageTrap.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\Trap\\timerDamageTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap\\timerDamageTrap.cs",
+              "ToolTip": "D:\\Unity\\Projects\\My project\\Assets\\Scripts\\Trap\\timerDamageTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap\\timerDamageTrap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:44:00.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
